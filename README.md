@@ -1,4 +1,4 @@
-# Heyy, I'm OFOSU EFFAH SAMUEL 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,;Welcome+to+my+profile;I+am+OFOSU+EFFAH+SAMUEL)](https://git.io/typing-svg) 👋
 
 I am a passionate Computer Science student at KNUST, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
