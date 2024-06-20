@@ -11,7 +11,7 @@ I am a passionate Computer Science student at KNUST, driven by a curiosity for t
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,ts,express,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,js,ts,express,postgresql,mongodb,git,firebase,supabase,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
