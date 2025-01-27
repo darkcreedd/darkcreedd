@@ -28,7 +28,7 @@ I am a passionate Computer Science student at KNUST, driven by a curiosity for t
 
 ## 📬 Get in Touch
 - 😄 Pronouns: He/Him
-- Connect with me on [Twitter](https://twitter.com/darkcreedd)
+- Connect with me on [Twitter](https://twitter.com/draconian01)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
