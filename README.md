@@ -4,7 +4,7 @@ I’m a dedicated Software Engineer with a deep passion for technology and a tal
 
 ## 🚀 About Me
 
-- 🔭 I’m a Software Engineer specializing in full-stack development and high-performance applications.
+- 🔭 A Software Engineer specializing in full-stack development and high-performance applications.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=next,flutter,dart,react,js,ts,express,postgresql,mongodb,git,firebase,supabase,html,css)](https://skillicons.dev)
