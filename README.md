@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,;Welcome+to+my+profile;I+am+OFOSU+EFFAH+SAMUEL)](https://git.io/typing-svg) 👋
 
-I’m a dedicated Software Engineer with a deep passion for technology and a talent for delivering impactful solutions. My expertise lies in crafting robust, scalable systems through full-stack development, paired with a commitment to sharing valuable insights with the tech community.
+A dedicated Software Engineer with a deep passion for technology and a talent for delivering impactful solutions. My expertise lies in crafting robust, scalable systems through full-stack development, paired with a commitment to sharing valuable insights with the tech community.
 
 ## 🚀 About Me
 
